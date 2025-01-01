@@ -1,0 +1,21 @@
+1.computer Networks basic and uses networking concepts.
+2.Computer Networks basic and uses understanding Network protocols.
+3.Computer Networks basic and uses Network security protocols.
+4.Computer Networks Basic and uses wireless networks.
+5.computer Networks basic and uses cryptography.
+6.Computer Networks Basic and uses firewall .
+7.Computer networks basic and uses mobile OS basic.
+8.Computer Networks basic and uses introduction to cloud computing.
+9.A Sneak Peek into cyber security understanding cyber security from internet sideways.
+10.A sneak Peek into cyber security malware how malicious.
+11.A Sneak Peek into cyber security peeping inside a hackers mind.
+12.A Sneak peek into cyber security prevent cyber attacks.
+13.Ethical hacking finding and exploiting security flows for good understanding ethical hacking.
+14.Ethical hacking finding and exploiting security flows for good is laws standards and policies.
+15.Ethical hacking finding and exploiting security flows for good types of hackers.
+16.Ethical hacking finding and exploiting security flows for good VAPT.
+17.Linux an important OS for cyber security Linux an overview.
+18.Linux an important OS for cyber security managing file and packages.
+19.Linux an important OS for cyber security managing Users and groups.
+20.Linux an important OS for cyber security network and system management.
+21.Linux an important OS for cyber security shell scripts a wonderful tool for automation.
